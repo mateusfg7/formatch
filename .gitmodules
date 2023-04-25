@@ -1,0 +1,6 @@
+[submodule "repositories/formatch-app"]
+	path = repositories/formatch-app
+	url = git@github.com:mateusfg7/formatch-app.git
+[submodule "repositories/formatch-server"]
+	path = repositories/formatch-server
+	url = git@github.com:mateusfg7/formatch-server.git
